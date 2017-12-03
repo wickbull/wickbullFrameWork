@@ -1,0 +1,23 @@
+RewriteEngine On
+
+RewriteRule /css/([^\/]+).css$ static/css/$1.css [L]
+
+RewriteRule /js/([^\/]+).js$ static/js/$1.js [L]
+
+RewriteRule /images/([^\/]+).jpg$ static/images/$1.jpg [L]
+RewriteRule /images/([^\/]+).png$ static/images/$1.png [L]
+RewriteRule /images/([^\/]+).gif$ static/images/$1.gif [L]
+
+RewriteRule /images/([^\/]+).jpg$ static/upload/images/$1.jpg [L]
+RewriteRule /images/([^\/]+).png$ static/upload/images/$1.png [L]
+RewriteRule /images/([^\/]+).gif$ static/upload/images/$1.gif [L]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php [L]
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}
+

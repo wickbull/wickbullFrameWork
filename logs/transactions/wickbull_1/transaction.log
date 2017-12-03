@@ -1,0 +1,171 @@
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83366484
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-11-30 21:39:08
+    [ik_inv_prc] => 2017-11-30 21:39:08
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 15
+    [ik_co_rfn] => 15
+    [ik_ps_price] => 15.45
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => 8hLYF4d//XG/cGc7iQ716A==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83366522
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-11-30 21:39:46
+    [ik_inv_prc] => 2017-11-30 21:39:46
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 3
+    [ik_co_rfn] => 3
+    [ik_ps_price] => 3.09
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => C2fQNI0hhdoYuiglyZ2Nng==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83435554
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-12-02 10:34:10
+    [ik_inv_prc] => 2017-12-02 10:34:10
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 500
+    [ik_co_rfn] => 500
+    [ik_ps_price] => 515
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => uuDs00sZFpEAYb4cU3VQAw==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83435682
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-12-02 10:38:33
+    [ik_inv_prc] => 2017-12-02 10:38:33
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 1000
+    [ik_co_rfn] => 1000
+    [ik_ps_price] => 1030
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => 9oywonu98aREcbRMD6lSFA==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83458290
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-12-02 18:21:12
+    [ik_inv_prc] => 2017-12-02 18:21:12
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 1
+    [ik_co_rfn] => 1
+    [ik_ps_price] => 1.03
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => ONml2W68RbFJMsbPLVmJHg==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83463584
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-12-02 20:06:57
+    [ik_inv_prc] => 2017-12-02 20:06:57
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 99.5
+    [ik_co_rfn] => 99.5
+    [ik_ps_price] => 102.49
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => Px3tMKO29o8zHsarbrojqA==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83463864
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-12-02 20:12:41
+    [ik_inv_prc] => 2017-12-02 20:12:41
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 99
+    [ik_co_rfn] => 99
+    [ik_ps_price] => 101.97
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => l56IbUloYP8ETlWaAAvgJg==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83463926
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-12-02 20:13:43
+    [ik_inv_prc] => 2017-12-02 20:13:43
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 0.9
+    [ik_co_rfn] => 0.9
+    [ik_ps_price] => 0.93
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => TS/N7JQZat+laPa1/md80Q==
+)
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83463962
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-12-02 20:14:19
+    [ik_inv_prc] => 2017-12-02 20:14:19
+    [ik_trn_id] => 
+    [ik_pm_no] => 1
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 0.05
+    [ik_co_rfn] => 0.05
+    [ik_ps_price] => 0.06
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => wickbull
+    [ik_sign] => w3F9nwW2IIrhaOt7sM95Iw==
+)

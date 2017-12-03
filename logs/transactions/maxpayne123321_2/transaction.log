@@ -1,0 +1,19 @@
+Array
+(
+    [ik_co_id] => 5a16cf3f3d1eaf79208b4568
+    [ik_co_prs_id] => 309076095367
+    [ik_inv_id] => 83366578
+    [ik_inv_st] => success
+    [ik_inv_crt] => 2017-11-30 21:40:51
+    [ik_inv_prc] => 2017-11-30 21:40:51
+    [ik_trn_id] => 
+    [ik_pm_no] => 2
+    [ik_pw_via] => test_interkassa_test_xts
+    [ik_am] => 3
+    [ik_co_rfn] => 3
+    [ik_ps_price] => 3.09
+    [ik_cur] => UAH
+    [ik_desc] => Event Description
+    [ik_x_login] => maxpayne123321
+    [ik_sign] => aah3+rOOvzBKVYXquByVIA==
+)
